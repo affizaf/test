@@ -14,3 +14,5 @@ Lovelace
 VincentCerf
 Babbage
 Tagore
+Rumi 
+Gibran
