@@ -7,3 +7,5 @@ Fazreen
 helo
 Ratha
 Charlie
+Lucy 
+Ada
