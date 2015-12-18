@@ -7,7 +7,10 @@ Fazreen
 helo
 Ratha
 Charlie
+Turing
 Lucy 
 Ada
 Lovelace
 VincentCerf
+Babbage
+taichosky
